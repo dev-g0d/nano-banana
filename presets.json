@@ -1,0 +1,422 @@
+[
+  {
+    "title": "ฟิกเกอร์ 3 มิติ",
+    "subtitle": "(3D Figurine)",
+    "prompt": "Turn this photo into a character figurine. Behind it, place a box with the character's image printed on it. In front, add a round plastic base for the figurine to stand on. Set the scene indoors.",
+    "emoji": "🧍"
+  },
+  {
+    "title": "โมเดลสถาปัตยกรรม",
+    "subtitle": "(Architecture Model)",
+    "prompt": "Convert this photo of a building into a miniature architecture model, placed on a cardstock in an indoor setting. Show a computer with modeling software in the background.",
+    "emoji": "🏗️"
+  },
+  {
+    "title": "เพิ่มความคมชัด HD",
+    "subtitle": "(HD Enhance)",
+    "prompt": "Enhance this image to high resolution, improving sharpness and clarity.",
+    "emoji": "🔍"
+  },
+  {
+    "title": "แยกและเพิ่มความคมชัด",
+    "subtitle": "(Isolate & Enhance)",
+    "prompt": "Isolate the person in the masked area and generate a high-definition photo of them against a neutral background.",
+    "emoji": "🎯"
+  },
+  {
+    "title": "ภาพวาดลายเส้น",
+    "subtitle": "(Line Art)",
+    "prompt": "Turn the image into a clean, hand-drawn line art sketch.",
+    "emoji": "✍🏻"
+  },
+  {
+    "title": "เพิ่มภาพประกอบ",
+    "subtitle": "(Add Illustration)",
+    "prompt": "Integrate a cute, cartoon-style illustrated character into the real-world scene.",
+    "emoji": "🧑‍🎨"
+  },
+  {
+    "title": "อนิเมะสู่คอสเพลย์",
+    "subtitle": "(Anime to Cosplay)",
+    "prompt": "Generate a highly detailed, realistic photo of a person cosplaying the character in this illustration. Replicate the pose, expression, and framing.",
+    "emoji": "🎭"
+  },
+  {
+    "title": "แอ็คชั่นฟิกเกอร์",
+    "subtitle": "(Action Figure)",
+    "prompt": "Transform the person in the photo into a realistic action figure inside its packaging.",
+    "emoji": "🦸"
+  },
+  {
+    "title": "ฟิกเกอร์ Funko Pop",
+    "subtitle": "(Funko Pop Figure)",
+    "prompt": "Transform the person into a Funko Pop figure, shown inside and next to its packaging.",
+    "emoji": "📦"
+  },
+  {
+    "title": "มินิฟิกเกอร์ LEGO",
+    "subtitle": "(LEGO Minifigure)",
+    "prompt": "Transform the person into a LEGO minifigure, inside its packaging box.",
+    "emoji": "🧱"
+  },
+  {
+    "title": "ตุ๊กตาโครเชต์",
+    "subtitle": "(Crochet Doll)",
+    "prompt": "Transform the subject into a handmade crocheted yarn doll with a cute, chibi-style appearance.",
+    "emoji": "🧶"
+  },
+  {
+    "title": "ตุ๊กตาบาร์บี้",
+    "subtitle": "(Barbie Doll)",
+    "prompt": "Transform the person into a Barbie doll, inside its packaging box.",
+    "emoji": "🎀"
+  },
+  {
+    "title": "หุ่นยนต์กันดั้ม",
+    "subtitle": "(Gundam Robot)",
+    "prompt": "Transform the person into a Gundam-style mecha, inside its model kit box.",
+    "emoji": "🦾"
+  },
+  {
+    "title": "เรนเดอร์ผลิตภัณฑ์",
+    "subtitle": "(Product Render)",
+    "prompt": "Turn this product sketch into a photorealistic 3D render with studio lighting.",
+    "emoji": "💡"
+  },
+  {
+    "title": "นิตยสารแฟชั่น",
+    "subtitle": "(Fashion Magazine)",
+    "prompt": "Transform the photo into a stylized, ultra-realistic fashion magazine portrait with cinematic lighting.",
+    "emoji": "📸"
+  },
+  {
+    "title": "ทำให้สมจริง",
+    "subtitle": "(Photorealistic)",
+    "prompt": "Turn this illustration into a photorealistic version.",
+    "emoji": "🪄"
+  },
+  {
+    "title": "เอฟเฟกต์หน้าจอ 3 มิติ",
+    "subtitle": "(3D Screen Effect)",
+    "prompt": "For an image with a screen, add content that appears to be glasses-free 3D, popping out of the screen.",
+    "emoji": "📺"
+  },
+  {
+    "title": "พวงกุญแจอะคริลิค",
+    "subtitle": "(Acrylic Keychain)",
+    "prompt": "Turn the subject into a cute acrylic keychain, perhaps shown attached to a bag.",
+    "emoji": "🔑"
+  },
+  {
+    "title": "ตุ๊กตาน่ารัก",
+    "subtitle": "(Cute Plushie)",
+    "prompt": "Turn the person in this photo into a cute, soft plushie doll.",
+    "emoji": "🧸"
+  },
+  {
+    "title": "สเก็ตช์ด้วยมาร์กเกอร์",
+    "subtitle": "(Marker Sketch)",
+    "prompt": "Redraw the image in the style of a Copic marker sketch, often used in design.",
+    "emoji": "🖊️"
+  },
+  {
+    "title": "แสงแบบภาพยนตร์",
+    "subtitle": "(Cinematic Lighting)",
+    "prompt": "Add a dramatic, cinematic lighting effect.",
+    "emoji": "🎬"
+  },
+  {
+    "title": "ภาพสีน้ำ",
+    "subtitle": "(Watercolor Painting)",
+    "prompt": "Turn the image into a watercolor painting.",
+    "emoji": "🎨"
+  },
+  {
+    "title": "วินเทจยุค 70",
+    "subtitle": "(70s Vintage)",
+    "prompt": "Make it look like a vintage photograph from the 1970s.",
+    "emoji": "🎞️"
+  },
+  {
+    "title": "เพิ่มทุ่งดอกไม้ป่า",
+    "subtitle": "(Add Wildflowers)",
+    "prompt": "Add a field of vibrant wildflowers in the foreground.",
+    "emoji": "🌸"
+  },
+  {
+    "title": "ฉากฤดูหนาว",
+    "subtitle": "(Winter Scene)",
+    "prompt": "Change the season to a snowy winter landscape.",
+    "emoji": "❄️"
+  },
+  {
+    "title": "ไซเบอร์พังค์",
+    "subtitle": "(Cyberpunk)",
+    "prompt": "Transform the scene into a futuristic cyberpunk city.",
+    "emoji": "🤖"
+  },
+  {
+    "title": "บรรยากาศน่ากลัว",
+    "subtitle": "(Spooky Atmosphere)",
+    "prompt": "Give it a spooky, haunted atmosphere with fog and dim light.",
+    "emoji": "👻"
+  },
+  {
+    "title": "สเก็ตช์ด้วยถ่าน",
+    "subtitle": "(Charcoal Sketch)",
+    "prompt": "Make the subject look like a hand-drawn charcoal sketch.",
+    "emoji": "✏️"
+  },
+  {
+    "title": "เพิ่มมังกรบนท้องฟ้า",
+    "subtitle": "(Add Dragon)",
+    "prompt": "Add a majestic dragon flying in the sky.",
+    "emoji": "🐉"
+  },
+  {
+    "title": "ฟิล์มนัวร์",
+    "subtitle": "(Film Noir)",
+    "prompt": "Convert the image to a black and white film noir style.",
+    "emoji": "🕵️"
+  },
+  {
+    "title": "บนพื้นผิวดาวอังคาร",
+    "subtitle": "(On Mars)",
+    "prompt": "Place the subject on the surface of Mars.",
+    "emoji": "🪐"
+  },
+  {
+    "title": "เพิ่มออร่าเวทมนตร์",
+    "subtitle": "(Add Magical Aura)",
+    "prompt": "Surround the subject with a magical, glowing aura.",
+    "emoji": "✨"
+  },
+  {
+    "title": "สไตล์แวนโก๊ะ",
+    "subtitle": "(Van Gogh Style)",
+    "prompt": "Reimagine the photo in the style of Van Gogh's 'Starry Night'.",
+    "emoji": "🌌"
+  },
+  {
+    "title": "เพิ่มเงาสะท้อนในน้ำ",
+    "subtitle": "(Add Water Reflection)",
+    "prompt": "Add a reflection in a pool of water.",
+    "emoji": "💧"
+  },
+  {
+    "title": "ช่วงเวลาโกลเด้นอาวร์",
+    "subtitle": "(Golden Hour)",
+    "prompt": "Change the time of day to a beautiful golden hour sunset.",
+    "emoji": "🌅"
+  },
+  {
+    "title": "ภาพพิกเซล 16 บิต",
+    "subtitle": "(16-Bit Pixel Art)",
+    "prompt": "Make it a pixel art scene from a 16-bit video game.",
+    "emoji": "👾"
+  },
+  {
+    "title": "เพิ่มแมว",
+    "subtitle": "(Add a Cat)",
+    "prompt": "Add a cute, fluffy cat sitting next to the main subject.",
+    "emoji": "🐈"
+  },
+  {
+    "title": "โตเกียวยามค่ำคืน",
+    "subtitle": "(Tokyo at Night)",
+    "prompt": "Turn the background into a bustling Tokyo street at night.",
+    "emoji": "🌃"
+  },
+  {
+    "title": "ไซเคเดลิก",
+    "subtitle": "(Psychedelic)",
+    "prompt": "Make the colors hyper-saturated and psychedelic.",
+    "emoji": "🍄"
+  },
+  {
+    "title": "สไตล์ Low-Poly",
+    "subtitle": "(Low-Poly Style)",
+    "prompt": "Render the image in a low-poly geometric style.",
+    "emoji": "🔷"
+  },
+  {
+    "title": "เพิ่มโฮโลแกรม",
+    "subtitle": "(Add Holograms)",
+    "prompt": "Add futuristic holographic displays around the subject.",
+    "emoji": " hologram"
+  },
+  {
+    "title": "ป่าต้องมนต์",
+    "subtitle": "(Enchanted Forest)",
+    "prompt": "Change the setting to an enchanted forest with glowing mushrooms.",
+    "emoji": "🌳"
+  },
+  {
+    "title": "สตีมพังค์",
+    "subtitle": "(Steampunk)",
+    "prompt": "Give the subject steampunk-style goggles and gears.",
+    "emoji": "⚙️"
+  },
+  {
+    "title": "ภาพซ้อน",
+    "subtitle": "(Double Exposure)",
+    "prompt": "Create a double exposure effect with a forest silhouette.",
+    "emoji": "🌲"
+  },
+  {
+    "title": "อนิเมะคลาสสิก",
+    "subtitle": "(Classic Anime)",
+    "prompt": "Make it look like a frame from a classic anime film.",
+    "emoji": "🎌"
+  },
+  {
+    "title": "เพิ่มรุ้งกินน้ำ",
+    "subtitle": "(Add a Rainbow)",
+    "prompt": "Add a rainbow arching across the sky.",
+    "emoji": "🌈"
+  },
+  {
+    "title": "เพิ่มโคมลอย",
+    "subtitle": "(Add Floating Lanterns)",
+    "prompt": "Surround the scene with floating lanterns.",
+    "emoji": "🏮"
+  },
+  {
+    "title": "โมเสกโรมัน",
+    "subtitle": "(Roman Mosaic)",
+    "prompt": "Transform it into an ancient Roman mosaic.",
+    "emoji": "🏛️"
+  },
+  {
+    "title": "ท้องฟ้ากาแล็กซี่",
+    "subtitle": "(Galaxy Sky)",
+    "prompt": "Make the sky filled with swirling galaxies and nebulae.",
+    "emoji": "🌠"
+  },
+  {
+    "title": "วันฝนตก",
+    "subtitle": "(Rainy Day)",
+    "prompt": "Add a gentle rain effect with glistening droplets.",
+    "emoji": "☔"
+  },
+  {
+    "title": "ซากปรักหักพังโบราณ",
+    "subtitle": "(Ancient Ruins)",
+    "prompt": "Place a mysterious, ancient ruin in the background.",
+    "emoji": "🏺"
+  },
+  {
+    "title": "ชุดเกราะยุคกลาง",
+    "subtitle": "(Medieval Armor)",
+    "prompt": "Change the clothing of the person to medieval armor.",
+    "emoji": "🛡️"
+  },
+  {
+    "title": "กระดาษโบราณ",
+    "subtitle": "(Old Parchment)",
+    "prompt": "Make the image look like it's printed on old, weathered parchment.",
+    "emoji": "📜"
+  },
+  {
+    "title": "เพิ่มบอลลูนลมร้อน",
+    "subtitle": "(Add Hot Air Balloon)",
+    "prompt": "Add a whimsical hot air balloon floating in the distance.",
+    "emoji": "🎈"
+  },
+  {
+    "title": "ฉากใต้น้ำ",
+    "subtitle": "(Underwater Scene)",
+    "prompt": "Create an underwater version of the scene.",
+    "emoji": "🐠"
+  },
+  {
+    "title": "ป๊อปอาร์ต",
+    "subtitle": "(Pop Art)",
+    "prompt": "Give it a pop art style like Andy Warhol.",
+    "emoji": "🖼️"
+  },
+  {
+    "title": "เพิ่มผี",
+    "subtitle": "(Add Ghosts)",
+    "prompt": "Add ghostly apparitions in the background.",
+    "emoji": "👻"
+  },
+  {
+    "title": "ฉากป่าดงดิบ",
+    "subtitle": "(Jungle Scene)",
+    "prompt": "Turn it into a lush, overgrown jungle scene.",
+    "emoji": "🌴"
+  },
+  {
+    "title": "รูปปั้นหินอ่อน",
+    "subtitle": "(Marble Statue)",
+    "prompt": "Make the main subject appear as a marble statue.",
+    "emoji": "🗿"
+  },
+  {
+    "title": "เพิ่มเลนส์แฟลร์",
+    "subtitle": "(Add Lens Flare)",
+    "prompt": "Add a dramatic lens flare effect.",
+    "emoji": "☀️"
+  },
+  {
+    "title": "สวนเซน",
+    "subtitle": "(Zen Garden)",
+    "prompt": "Change the background to a serene Japanese zen garden.",
+    "emoji": "🏯"
+  },
+  {
+    "title": "ใบไม้ร่วง",
+    "subtitle": "(Autumn Leaves)",
+    "prompt": "Cover the landscape in a blanket of colorful autumn leaves.",
+    "emoji": "🍂"
+  },
+  {
+    "title": "ภาพวาดหมึก",
+    "subtitle": "(Ink Drawing)",
+    "prompt": "Make it look like a detailed ink drawing.",
+    "emoji": "✒️"
+  },
+  {
+    "title": "เพิ่มหุ่นยนต์เพื่อน",
+    "subtitle": "(Add Robot Companion)",
+    "prompt": "Add a friendly robot companion to the scene.",
+    "emoji": "🤖"
+  },
+  {
+    "title": "ลูกแก้วหิมะ",
+    "subtitle": "(Snow Globe)",
+    "prompt": "Place the scene inside a crystal snow globe.",
+    "emoji": "🔮"
+  },
+  {
+    "title": "ภาพถ่ายสารคดี",
+    "subtitle": "(Documentary Photo)",
+    "prompt": "Give it a grainy, high-contrast B&W documentary photo look.",
+    "emoji": "📷"
+  },
+  {
+    "title": "เพิ่มผีเสื้อ",
+    "subtitle": "(Add Butterflies)",
+    "prompt": "Add butterflies fluttering around the subject.",
+    "emoji": "🦋"
+  },
+  {
+    "title": "ฉากในเทพนิยาย",
+    "subtitle": "(Fairytale Scene)",
+    "prompt": "Transform it into a scene from a fairytale.",
+    "emoji": "🏰"
+  },
+  {
+    "title": "พื้นกระดานหมากรุก",
+    "subtitle": "(Chessboard Floor)",
+    "prompt": "Make the ground look like a giant chessboard.",
+    "emoji": "♟️"
+  },
+  {
+    "title": "เพิ่มอนุภาคเวทมนตร์",
+    "subtitle": "(Add Magical Particles)",
+    "prompt": "Surround the subject with shimmering, magical particles.",
+    "emoji": "✨"
+  }
+]
