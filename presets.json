@@ -1,9 +1,10 @@
 [
   {
     "p": "hot",
-    "title": "ถ่ายเปิดแฟลช V2",
+    "title": "ถ่ายเปิดแฟลช v2",
     "subtitle": "(Direct Flash Photo)",
-    "prompt": "เปลี่ยนภาพนี้เป็นภาพถ่ายระดับมืออาชีพทำให้สถานที่ให้มืดลงทั้งหมดแล้วถ่ายนางแบบด้วยแสงแฟลชขนาดใหญ่ที่ โดนใช้แสงกระจายไปทั่วทั้งฉากจนทำให้เห็นเงาเธอได้ชัดเจน แสงแฟลชกระจายมาจากทางด้านหน้าของนางแบบและทำให้เธอดูมีสเน่ห์ผิวสว่าง แสงกระจายไปทั่วฉาก แสงทั้งหมดทำให้เห็นตัวของนางแบบอย่างชัดเจนที่สุด คอนทราสระหว่างแสงกับฉากด้านหลังค่อนข้างชัดเจน ทำให้ตัวและชุดของนางแบบสว่างชัดเจนทุกส่วน",
+    "ref": "https://raw.githubusercontent.com/dev-g0d/nano-banana/main/references/direct-flash.png",
+    "prompt": "You will be given two images. The first is the user's input photo. The second is a style reference photo. Your task is to completely transform the lighting and mood of the user's photo to match the direct flash photography aesthetic of the reference photo. The subject from the user's photo should be fully and brightly illuminated by a harsh, on-camera flash, creating a sharp, hard-edged shadow directly behind them. The background should become significantly darker and underexposed. The final output must capture the high-contrast, sharp, and raw 'paparazzi' feel of the reference image, applied to the subject and scene of the user's photo.",
     "emoji": "📸"
   },
   {
