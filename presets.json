@@ -1,5 +1,11 @@
 [
   {
+    "title": "ถ่ายเปิดแฟลช",
+    "subtitle": "(Direct Flash Photo)",
+    "prompt": "Transform this image into a high-contrast, direct flash photograph. The subject should be brightly lit with harsh shadows, and the background should be dark and underexposed, as if taken at night.",
+    "emoji": "📸"
+  },
+  {
     "title": "ฟิกเกอร์ 3 มิติ",
     "subtitle": "(3D Figurine)",
     "prompt": "Turn this photo into a character figurine. Behind it, place a box with the character's image printed on it. In front, add a round plastic base for the figurine to stand on. Set the scene indoors.",
