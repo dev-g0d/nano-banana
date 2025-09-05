@@ -1,12 +1,20 @@
 [
   {
     "p": "hot",
+    "title": "ถ่ายเปิดแฟลช V2",
+    "subtitle": "(Direct Flash Photo)",
+    "prompt": "Re-light the entire image to create the distinct aesthetic of direct, on-camera flash photography at night. The *entire* main subject should be hit squarely by the flash, resulting in bright, flat, and uniform illumination across their whole body and clothing. This harsh light should create a well-defined, hard-edged shadow cast directly behind the subject onto the background. The background itself should become significantly underexposed and dark, with most ambient light removed, making the subject pop dramatically from their surroundings. The final image must be sharp, high-contrast, and feel raw and unfiltered.",
+    "emoji": "📸"
+  },
+  {
+    "p": "hot",
     "title": "ถ่ายเปิดแฟลช",
     "subtitle": "(Direct Flash Photo)",
     "prompt": "Transform this into a photorealistic image taken with a powerful on-camera flash in a low-light environment. The main subject should be the clear focal point, fully and brightly illuminated by the harsh flash. This should create sharp, hard-edged shadows directly behind them. The background should be significantly darker, with details falling off into shadow, to create a strong sense of depth and a 'night-out' atmosphere. The final look should be high-contrast, sharp, and mimic the raw, unfiltered aesthetic of direct flash photography.",
     "emoji": "📸"
   },
   {
+    "p": "hot",
     "title": "ฟิกเกอร์ 3 มิติ",
     "subtitle": "(3D Figurine)",
     "prompt": "Turn this photo into a character figurine. Behind it, place a box with the character's image printed on it. In front, add a round plastic base for the figurine to stand on. Set the scene indoors.",
