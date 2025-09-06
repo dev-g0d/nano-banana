@@ -22,6 +22,13 @@
     "emoji": "🍃"
   },
   {
+    "p": "hot",
+    "title": "ไอโซเมตริก",
+    "subtitle": "(Isometric Style)",
+    "prompt": "transform image to square Isometric, Cross-section view, Unreal Engine 5, Ray Tracing",
+    "emoji": "🧊"
+  },
+  {
     "title": "โมเดลสถาปัตยกรรม",
     "subtitle": "(Architecture Model)",
     "prompt": "Convert this photo of a building into a miniature architecture model, placed on a cardstock in an indoor setting. Show a computer with modeling software in the background.",
