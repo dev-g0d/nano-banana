@@ -15,6 +15,13 @@
     "emoji": "🧍"
   },
   {
+    "p": "hot",
+    "title": "สไตล์จิบลิ",
+    "subtitle": "(Ghibli Style)",
+    "prompt": "Edit this image: (transform image into 2D Studio Ghibli style, Anime line art, Flat colors, remove gradients color, remove focus, detailed anime, Simple Shading, expressive character, Crisp Outlines. : STRONG)",
+    "emoji": "🍃"
+  },
+  {
     "title": "โมเดลสถาปัตยกรรม",
     "subtitle": "(Architecture Model)",
     "prompt": "Convert this photo of a building into a miniature architecture model, placed on a cardstock in an indoor setting. Show a computer with modeling software in the background.",
