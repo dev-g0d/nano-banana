@@ -32,7 +32,7 @@
     "p": "hot",
     "title": "อนิเมะสู่คอสเพลย์ V2",
     "subtitle": "(Anime to Cosplay V2)",
-    "prompt": "Transform this image into photography a real person cosplaying, Replicate the pose.",
+    "prompt": "Create a photorealistic photo of a person cosplaying the character shown. Critical goal: The pose, expression, costume, hair, and background must be an exact, high-fidelity replication of the source image.",
     "emoji": "🎭"
   },
   {
