@@ -29,6 +29,12 @@
     "emoji": "🧊"
   },
   {
+    "title": "อนิเมะสู่คอสเพลย์ V2",
+    "subtitle": "(Anime to Cosplay V2)",
+    "prompt": "Transform this image into photography a real person cosplaying, Replicate the pose.",
+    "emoji": "🎭"
+  },
+  {
     "title": "โมเดลสถาปัตยกรรม",
     "subtitle": "(Architecture Model)",
     "prompt": "Convert this photo of a building into a miniature architecture model, placed on a cardstock in an indoor setting. Show a computer with modeling software in the background.",
